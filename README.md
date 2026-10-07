@@ -1,8 +1,8 @@
-<!-- Cyberpunk Profile README -->
+<!-- Cyberpunk GitHub Profile README -->
 
 <!-- Profile Views -->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=00fff7&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=00FFF7&style=for-the-badge" alt="Profile views" />
 </p>
 
 <!-- Cyberpunk Header -->
@@ -10,12 +10,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050014,40:16002E,75:7A00FF,100:00FFF7&height=240&section=header&text=SAMEEP&fontSize=52&fontColor=00FFF7&fontAlignY=38&desc=BITM%20STUDENT%20%7C%20ASPIRING%20SOFTWARE%20DEVELOPER&descAlignY=62&descSize=16&descColor=FF00E5" alt="Cyberpunk Sameep header" />
 </p>
 
-<h1 align="center">
-  <span style="color:#00FFF7;">[ SYSTEM ONLINE ]</span>
-</h1>
+<h1 align="center">Hi, I'm Sameep 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00FFF7&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Sameep;BITM+Student;C%2B%2B+%7C+JavaScript+Learner;Aspiring+Software+Developer;Building+the+future%2C+one+line+at+a+time..." alt="Typing introduction" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00FFF7&center=true&vCenter=true&width=800&lines=BITM+Student;C%2B%2B+%7C+JavaScript+Learner;Aspiring+Software+Developer;Building+the+future+one+line+at+a+time" alt="Typing introduction" />
 </p>
 
 <p align="center">
@@ -145,9 +143,8 @@ Full-stack software development
 
 ## `> coding_simulation`
 
-<!-- Replace this path with your own coding animation GIF -->
 <p align="center">
-  <img src="./assets/coding-simulation.gif" width="850" alt="Cyberpunk coding simulation" />
+  <img src="./assets/cyberpunk-coder.gif" width="850" alt="Animated cyberpunk man coding at a futuristic workstation" />
 </p>
 
 ---
