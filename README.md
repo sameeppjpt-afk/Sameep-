@@ -1,112 +1,161 @@
+<!-- Cyberpunk Profile README -->
+
 <!-- Profile Views -->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=_2sameep2_&color=00A896&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=00fff7&style=for-the-badge" alt="Profile views" />
 </p>
 
-<!-- Header -->
+<!-- Cyberpunk Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:00A896&height=220&section=header&text=Sameep&fontSize=45&fontColor=FFFFFF&fontAlignY=38&desc=BITM%20Student%20%7C%20Aspiring%20Software%20Developer&descAlignY=60&descSize=18" alt="Sameep profile banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050014,40:16002E,75:7A00FF,100:00FFF7&height=240&section=header&text=SAMEEP&fontSize=52&fontColor=00FFF7&fontAlignY=38&desc=BITM%20STUDENT%20%7C%20ASPIRING%20SOFTWARE%20DEVELOPER&descAlignY=62&descSize=16&descColor=FF00E5" alt="Cyberpunk Sameep header" />
 </p>
 
-<h1 align="center">Hi, I'm Sameep 👋</h1>
+<h1 align="center">
+  <span style="color:#00FFF7;">[ SYSTEM ONLINE ]</span>
+</h1>
 
 <p align="center">
-  <i>BITM student and aspiring software developer from Nepal.</i>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00FFF7&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Sameep;BITM+Student;C%2B%2B+%7C+JavaScript+Learner;Aspiring+Software+Developer;Building+the+future%2C+one+line+at+a+time..." alt="Typing introduction" />
 </p>
 
 <p align="center">
   <a href="mailto:sameeppjpt@gmail.com">
-    <img src="https://img.shields.io/badge/Email-sameeppjpt%40gmail.com-00A896?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/EMAIL-sameeppjpt%40gmail.com-00FFF7?style=for-the-badge&logo=gmail&logoColor=050014" alt="Email" />
   </a>
   <a href="https://www.instagram.com/_2sameep2_/">
-    <img src="https://img.shields.io/badge/Instagram-_2sameep2_-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/INSTAGRAM-_2sameep2_-FF00E5?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 
 ---
 
-## About Me
+## `> whoami`
 
-- 🎓 Studying Bachelor of Information Technology Management.
-- 💻 Interested in programming and software development.
-- 🌱 Currently learning C++ and JavaScript.
-- 🧠 Building a strong foundation in programming logic and problem-solving.
-- 🚀 Interested in creating useful, efficient, and practical software.
-- 📍 Based in Kathmandu, Nepal.
-
----
-
-## Current Focus
-
-- C++ programming
-- JavaScript programming
-- Object-oriented programming
-- Data structures and algorithms
-- Web development
-- Problem-solving
-- Git and GitHub
-- Clean and maintainable code
+```text
+Name        : Sameep
+Education   : Bachelor of Information Technology Management
+Location    : Kathmandu, Nepal
+Role        : Aspiring Software Developer
+Status      : Learning and building
+Mission     : Turning ideas into practical software
+```
 
 ---
 
-## Languages and Tools
+## `> about_me`
+
+- 🎓 BITM student from Nepal.
+- 💻 Focused on programming and software development.
+- ⚡ Currently learning C++ and JavaScript.
+- 🧠 Developing problem-solving and programming logic.
+- 🛠️ Interested in building useful and efficient applications.
+- 🚀 Learning step by step and improving every day.
+
+---
+
+## `> current_focus`
+
+```text
+[████████████████░░░░] C++ programming
+[██████████████░░░░░░] JavaScript
+[████████████░░░░░░░░] Object-oriented programming
+[██████████░░░░░░░░░░] Data structures and algorithms
+[████████░░░░░░░░░░░░] Web development
+[██████░░░░░░░░░░░░░░] Git and GitHub
+```
+
+---
+
+## `> tech_arsenal`
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,js,html,css,git,github,vscode" alt="Programming languages and tools" />
+  <img src="https://skillicons.dev/icons?i=cpp,js,html,css,git,github,vscode&theme=dark" alt="Technology skills" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C%2B%2B-00FFF7?style=for-the-badge&logo=cplusplus&logoColor=050014" alt="C++" />
+  <img src="https://img.shields.io/badge/JavaScript-FF00E5?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-7A00FF?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-00FFF7?style=for-the-badge&logo=css3&logoColor=050014" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Git-FF00E5?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-7A00FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS%20Code-00FFF7?style=for-the-badge&logo=visualstudiocode&logoColor=050014" alt="VS Code" />
 </p>
 
 ---
 
-## Projects
+## `> projects`
 
-Currently learning, experimenting, and preparing to build software projects.
+```text
+ C++ Console Applications
+     Practicing programming fundamentals and object-oriented programming.
 
-Future projects will focus on:
+ Algorithm Implementations
+     Improving logical thinking through data structures and algorithms.
 
-- C++ console applications
-- Algorithm and data-structure implementations
-- JavaScript web applications
-- Interactive websites
-- Student productivity tools
-- Practical software solutions
+ JavaScript Applications
+     Building interactive applications for the web.
 
-> This section will be updated as I publish new projects.
+ Future Software Projects
+     Creating practical tools and solutions for real-world problems.
+```
+
+> Projects will be added here as they are completed and published.
 
 ---
 
-## Learning Roadmap
+## `> learning_roadmap`
 
 ```text
 C++ fundamentals
-      ↓
+      │
+      ▼
 Object-oriented programming
-      ↓
+      │
+      ▼
 Data structures and algorithms
-      ↓
+      │
+      ▼
 JavaScript fundamentals
-      ↓
+      │
+      ▼
 Frontend development
-      ↓
+      │
+      ▼
 Backend development
-      ↓
+      │
+      ▼
 Full-stack software development
 ```
 
 ---
 
-## Connect With Me
+## `> connect`
 
 <p align="center">
   <a href="mailto:sameeppjpt@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-sameeppjpt%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/GMAIL-sameeppjpt%40gmail.com-00FFF7?style=for-the-badge&logo=gmail&logoColor=050014" alt="Gmail" />
   </a>
   <a href="https://www.instagram.com/_2sameep2_/">
-    <img src="https://img.shields.io/badge/Instagram-_2sameep2_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/INSTAGRAM-_2sameep2_-FF00E5?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 
 ---
 
+## `> coding_simulation`
+
+<!-- Replace this path with your own coding animation GIF -->
 <p align="center">
-  <i>Learning every day. Building step by step.</i>
+  <img src="./assets/coding-simulation.gif" width="850" alt="Cyberpunk coding simulation" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2200&pause=700&color=00FFF7&center=true&vCenter=true&width=650&lines=%3E+Initializing+next+project...;%3E+Compiling+ideas...;%3E+Debugging+reality...;%3E+System+status%3A+BUILDING" alt="Cyberpunk footer animation" />
+</p>
+
+<p align="center">
+  <code>LEARN // BUILD // DEBUG // REPEAT</code>
 </p>
